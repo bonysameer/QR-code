@@ -1,0 +1,42 @@
+body{
+   background-color:  hsl(212, 45%, 89%);
+}
+img{
+   /*padding: 10px ;*/
+   padding-left: 5px;
+   padding-top: 10px;
+   padding-right: 5px;
+   height: 300px;
+   width: 300px;
+   border-radius: 25px;
+   
+   
+}
+.qr-code{
+   
+   display: inline-block;
+   position: relative;
+   left: 550px;
+   top: 25px;
+   background-color:  hsl(0, 0%, 100%);
+   text-align: center;
+   border-radius: 15px;
+   
+   
+}
+p {
+   font-size: 15px;
+   text-align: center;
+   margin: 1cm;
+   color: #73777B;
+   font-weight: 500;
+   
+}
+h2{
+   font-family: 'Lexend Deca', sans-serif;
+   text-align: justify;
+   margin: 1cm;
+   
+   
+   
+}
